@@ -807,7 +807,7 @@ section.courses .item .down-content {
     background-color: #fff;
     border-bottom-right-radius: 5px;
     border-bottom-left-radius: 5px;
-    height: 10em;
+    height: 12em;
 
 }
 
@@ -888,6 +888,11 @@ section.video {
     padding: 120px 0px;
 }
 
+section.video figure img {
+  max-width: 120em;
+  max-height: 100em;
+}
+
 section.video .left-content {
   color: #fff;
 }
@@ -933,6 +938,12 @@ section.video .left-content .main-button {
   section.video .second-item .second-content h4 {
     text-align: center;
   }
+
+  section.video figure img {
+  max-width: 25em;
+  max-height: 100em;
+}
+
 
 }
 
