@@ -939,11 +939,14 @@ section.video .left-content .main-button {
     text-align: center;
   }
 
-  section.video figure img {
-  max-width: 25em;
-  max-height: 100em;
-}
-
+    section.video figure img {
+    max-width: 25em;
+    max-height: 100em;
+  }
+    section.video figure#ethical img {
+    max-width: 25em;
+    max-height: 100em;
+  }
 
 }
 
