@@ -794,6 +794,7 @@ section.courses {
     background-color: #172238;
     padding-bottom: 100px;
     padding: 0px 30px 100px 30px;
+    overflow-wrap: break-word;
 }
 
 section.courses .item img {
@@ -806,6 +807,8 @@ section.courses .item .down-content {
     background-color: #fff;
     border-bottom-right-radius: 5px;
     border-bottom-left-radius: 5px;
+    height: 10em;
+
 }
 
 section.courses .item .down-content h4 {
